@@ -26,7 +26,7 @@
 		
 		//data source 설정
 		String driverName = "com.mysql.jdbc.Driver";
-		String url = "jdbc:mysql://localhost:3306/odbo";
+		String url = "jdbc:mysql://localhost:3306/odbo"; 
 		String username = "root";
 		String password = "12345";
 		
